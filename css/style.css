@@ -1,5 +1,9 @@
-main {
+.bg-active {
     background-color: rgb(127,255,212);
+}
+
+.bg-blue {
+    background-color: blue;
 }
 
 .left-side img {
@@ -8,6 +12,7 @@ main {
 
 .right-side button {
     width: 100px;
+    border-radius: 10%;
 }
 
 a {
