@@ -1,3 +1,7 @@
+main {
+    background-color: rgb(127,255,212);
+}
+
 .left-side img {
     width: 100px;
 }
@@ -8,4 +12,12 @@
 
 a {
     color: rgb(94,69,118);
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    aspect-ratio: 1 / 1;
 }
