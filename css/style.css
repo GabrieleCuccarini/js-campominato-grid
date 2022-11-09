@@ -13,6 +13,13 @@
 .right-side button {
     width: 100px;
     border-radius: 10%;
+    background-color: rgb(233,233,237);
+}
+
+select {
+    border-radius: 10%;
+    width: 100px;
+    background-color: rgb(233,233,237)
 }
 
 a {
